@@ -1,0 +1,16 @@
+{
+  "example_only": true,
+  "coordinate_space": "output_half_pixels",
+  "max_edge_error_px": 2,
+  "samples": [
+    {
+      "clip_id": "portrait-example",
+      "frame": 25,
+      "phase": "hold",
+      "measurement_kind": "manual_frame_measurement",
+      "evidence": "07_checks/replace-with-actual-measured-frame.png",
+      "card_bounds": [315, 361, 753, 973],
+      "light_frame_bounds": [315, 361, 753, 973]
+    }
+  ]
+}

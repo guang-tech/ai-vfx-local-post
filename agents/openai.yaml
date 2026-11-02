@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 动效生成与本地后期"
+  short_description: "从视觉设定、纯动效生成到本地合成、透明视频交付和播放排查"
+  default_prompt: "使用 $ai-vfx-local-post，按当前项目的资产和已确认要求完成设计、生成与本地后期，并保留可复用配置和验收证据。"
